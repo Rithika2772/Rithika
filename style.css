@@ -1,6 +1,19 @@
+html{
+    scroll-behavior: smooth;
+}
 h1{
     font-size: 20px;
 }
 body{
     text-align: center;
+}
+a:hover{
+    text-decoration: none;
+    color: #0000;
+}
+a:visited{
+    color: black;
+}
+a:link{
+    color:brown;
 }
